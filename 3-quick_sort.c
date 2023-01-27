@@ -25,7 +25,7 @@ void _qsort(int *a, int low, int high, int size)
 {
 	int p, w, i;
 	int tmp;
-
+	
 	if (low < high)
 	{
 		p = high;
